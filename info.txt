@@ -1,1 +1,1 @@
-Exploring the power of Linux commands.
+"Exploring the power of Linux commands."
